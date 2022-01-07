@@ -1,2 +1,1 @@
-# Tennis-Kata
-Sample Go challenge 
+Sample coding challenges in Golang 
